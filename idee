@@ -1,0 +1,16 @@
+lista colli cosa serva:
+
+intefaccia (come UtenteRepositori)
+
+interfaccia (come UtenteService)
+
+foglio comandi (come UtenteServiceImpl)
+
+foglio comandi (come UtenteController)
+
+foglio comandi (Utente)
+
+pos tab colli:
+si trova sotto la scheda personale dell'utente.
+i colli sono relativi all'utente.
+se schiacci su un colle ti porta nella scheda personale del camion che lo rasporta.
