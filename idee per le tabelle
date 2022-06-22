@@ -1,3 +1,11 @@
+per creare le tabelle e portale sulle pagine web servono solo 4 CLASSI che sono:
+
+ENTITY(es Utente)
+CONTROLLER(es UtenteController)
+REPOSITORY(es UtenteRepository)
+TEMPLATES(CREI UNA CARTELLA es Utenti) (POI CREI UN FILE HTML es tabella)
+
+
 lista colli cosa serva:
 
 intefaccia (come UtenteRepositori)
