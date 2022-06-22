@@ -1,0 +1,10 @@
+ </p>
+                <label for="validationCustom04" class="form-label">Stato del pacco</label>
+                <div class="col-md-3">
+                    <select class="form-select" id="validationCustom04" required="">
+                        <option selected="" disabled="" value="">Choose...</option>
+                        <option>Deve arrivare</option>
+                        <option>Arrivato</option>
+                    </select>
+                </div>
+            </p>
