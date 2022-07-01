@@ -1,0 +1,50 @@
+utenti
+
+1	  1	milano	mario@gmail.com	MARIO	ROSSI	MI
+2	  1	milano	laura.terzi@gmail.it	LAURA	TERZI	MI
+3	  0	milano	marco.shena@gmail.it	MARCO	SCHENA	MI
+4	  1	milano	giovanni.falcome@yahoo.com	GIOVANNI	FALCONE	MI
+5	  1	torino	francesca2000@yahoo.com	FRANCESCA	COVIELLO	TO
+6	  0	torino	andrea.balduzzi2003@gmail.com	ANDREA	BALDUZZI	TO
+7	  0	napoli	Ciro.esposito@gmail.it	CIRO	ESPOSITO	NA
+8	  0	napoli	Marco.gambarini2001@yahoo.it	MARCO	ESPOSITO	CO
+9	  1	torino	allesandro.clerici@gmail.com	ALESSANDRO	CLERICI	TO
+10 	1	napoli	antonio1988@yahoo.com	ANTONIO	POZZI	NA
+11	0	como	paolo.romani1990@gmail.it	PAOLO	ROMANI	CO
+
+colli
+
+1	  1	1	  Via Dante Chiasserini, 15 a Milano	1	1	1	  4
+2	  1	3	  Via Dante Chiasserini, 15 a Milano	1	1	3	  3
+3	  1	4	  Via Dante Chiasserini, 15 a Milano	1	1	4	  2
+4	  1	6	  Via Dante Chiasserini, 15 a Milano	1	1	6	  5
+5	  1	5	  Via Dante Chiasserini, 15 a Milano	1	0	5	  1
+6	  1	4	  Via Dante Chiasserini, 15 a Milano	1	0	4	  9
+7	  1	3	  Via Dante Chiasserini, 15 a Milano	1	0	3	  8
+8	  1	2 	Via Dante Chiasserini, 15 a Milano	1	0	2	  6
+9	  1	11	Via Dante Chiasserini, 15 a Milano	1	0	11	10
+10	1	1	  Via Dante Chiasserini, 15 a Milano	1	0	1	  2
+11	1	9	  Via Dante Chiasserini, 15 a Milano	1	1	9	  1
+12	1	7	  Via Dante Chiasserini, 15 a Milano	1	1	7	  3
+13	1	8 	Via Dante Chiasserini, 15 a Milano	1	1	8	  4
+14	1	7 	Via Dante Chiasserini, 15 a Milano	1	1	7	  5
+15	1	6	  Via Dante Chiasserini, 15 a Milano	1	1	6	  6
+16	1	1	  Via Dante Chiasserini, 15 a Milano	1	1	1	  7
+17	1	2	  Via Dante Chiasserini, 15 a Milano	1	1	2	  9
+18	1	2	  Via Dante Chiasserini, 15 a Milano	1	0	2	  10
+19	1	5	  Via Dante Chiasserini, 15 a Milano	1	1	5	  1
+20	1	4	  Via Dante Chiasserini, 15 a Milano	1	0	4	  8
+
+
+furgoni
+
+1	  BMW	    a	    GG 000KM	20	5
+2	  Hyundai	a	    PH 302QP	20	10
+3	  Fiat	  a	    QP 800SM	20	20
+4	  Fiat	  a	    XI 254OP	20	12
+5	  Peugeot	a	    AP 304LP	20	8
+6	  Toyota	a	    GP 304LP	20	16
+7	  Ford	  a	    i	        20	5
+8	  BMW	    a	    a	        20	17
+9	  Hyundai	a	    s	        20	10
+10	Ferrari	s	    a	        20	0
